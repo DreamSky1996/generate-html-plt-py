@@ -1,0 +1,52 @@
+[
+  // projects can be added an removed
+  // if there are no projects, Projects section won't show up
+  {
+    name: 'RoofRuler',
+    url: roofrulerIMG,
+    description: '',
+    stack: ['Laravel', 'Leaflet', 'Near Map API', 'Google Map API', 'Stripe'],
+    sourceCode: 'https://github.com/roofruler/roof',
+    livePreview: 'https://roofruler.com/',
+  },
+  {
+    name: 'Taka Swap',
+    url: TakaswapIMG,
+    description: '',
+    stack: [
+      'react',
+      'npm',
+      'web3',
+      'blockchain',
+      'smart contract',
+      'solidity',
+      'nodejs',
+    ],
+    sourceCode: 'https://github.com/DreamSky1996/taka-dex-frontend',
+    livePreview: 'https://taka-swap.on.fleek.co/#/swap',
+  },
+  {
+    name: 'VOC Yield',
+    url: VocyieldIMG,
+    description: '',
+    stack: ['React', 'Blockchain', 'web3', 'Solidity', 'Smart Contract'],
+    sourceCode: 'https://github.com/DreamSky1996/voc-main-frontend',
+    livePreview: 'https://vocyield.on.fleek.co',
+  },
+  {
+    name: 'Ever ETH',
+    url: EverethIMG,
+    description: '',
+    stack: ['React', 'Blockchain', 'web3', 'Solidity', 'Smart Contract'],
+    sourceCode: 'https://github.com/DreamSky1996/voc-main-frontend',
+    livePreview: '',
+  },
+  {
+    name: 'Benefits Of Clothes Swapping',
+    url: BenefitsIMG,
+    description: '',
+    stack: ['React', 'HTML', 'CSS', 'Javascript'],
+    sourceCode: 'https://github.com/DreamSky1996/yazi-react-front',
+    livePreview: '',
+  },
+]
